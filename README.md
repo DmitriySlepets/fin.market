@@ -1,1 +1,2 @@
-# fin.market
+# Компонент - сравнение товаров
+Например https://fin.market/catalog/comparisons/
